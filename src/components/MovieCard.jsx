@@ -1,10 +1,13 @@
 // MovieCard.js
 import React from 'react';
+import { Link } from 'react-router-dom';
+
 
 const MovieCard = ({ movie }) => (
   <div className="movie-card">
-    <img src={movie.large_cover_image
-} alt={movie.title} />
+     <Link to={`/movie/${movie.id}`} state={{ movie }}>
+      <img src={movie.large_cover_image} alt={movie.title} />
+    </Link>
     <div className="movie-info">
       <h3>{movie.title}</h3>
       <p>{movie.summary
