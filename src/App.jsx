@@ -15,31 +15,31 @@ const App = () => {
       title: 'The Story of Parks Marriage Contract',
       description: 'A mind-bending thriller',
       posterURL: 'https://nkiri.com/wp-content/uploads/2023/11/the-story-of-parks-marriage-contract-korean-drama-200x300.jpg',
-      rating: 4.5,
+      rating: 5,
     },
     {
       title: 'My Demon',
       description: 'A mind-bending thriller',
       posterURL: 'https://nkiri.com/wp-content/uploads/2023/11/my-demon-korean-drama-200x300.jpg',
-      rating: 4.5,
+      rating: 3.5,
     },
     {
       title: 'Woman of 9.9 billion',
       description: 'A mind-bending thriller',
       posterURL: 'https://nkiri.com/wp-content/uploads/2023/11/woman-of-9.9-billion-korean-drama-200x300.jpg',
-      rating: 4.5,
+      rating: 2.5,
     },
     {
       title: 'Vigilante',
       description: 'A mind-bending thriller',
       posterURL: 'https://nkiri.com/wp-content/uploads/2023/11/vigilante-korean-drama-200x300.jpg',
-      rating: 4.5,
+      rating: 5,
     },
     {
       title: 'The marchmaker',
       description: 'A mind-bending thriller',
       posterURL: 'https://nkiri.com/wp-content/uploads/2023/10/the-matchmakers-korean-drama-200x300.jpg',
-      rating: 4.5,
+      rating: 3.7,
     },
   
   ]);
